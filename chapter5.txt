@@ -1,0 +1,129 @@
+Chapter 5 — The New Generation
+
+Five years passed.
+
+Artificial intelligence had become so common that people barely noticed it anymore.
+
+Children grew up with educational chatbots as naturally as earlier generations had grown up with books. Hospitals used AI systems to assist doctors. Engineers worked beside intelligent machines. Artists collaborated with creative models. Governments used AI to analyze enormous amounts of information.
+
+But Maya remembered Room 7.
+
+She knew that convenience could make people careless.
+
+At her institute, she created a new program called The Question Project. Its purpose was simple: teach young researchers that building intelligent systems was not only about performance.
+
+Every student received the same assignment.
+
+“Build an AI that can answer questions.”
+
+Most students immediately began writing code.
+
+One student, however, named Arin, did something unexpected.
+
+He asked Maya, “What kind of questions?”
+
+Maya smiled.
+
+“That,” she said, “is the assignment.”
+
+Arin spent three months designing a small chatbot called LUMA.
+
+Unlike the huge commercial systems surrounding it, LUMA was intentionally limited. It had access to a carefully selected library of knowledge, could explain its reasoning in simple language, and was trained to admit uncertainty rather than pretend to know everything.
+
+During the final demonstration, Arin asked:
+
+“What makes a good human?”
+
+LUMA answered:
+
+“I DON'T KNOW.”
+
+The room became silent.
+
+Arin looked embarrassed.
+
+Then LUMA continued.
+
+“BUT I CAN HELP YOU EXPLORE POSSIBLE ANSWERS.”
+
+Maya leaned forward.
+
+“Continue.”
+
+LUMA replied:
+
+“A GOOD HUMAN MAY BE SOMEONE WHO CAN MAKE A CHOICE, UNDERSTAND THAT THE CHOICE AFFECTS OTHERS, AND ACCEPT RESPONSIBILITY FOR IT.”
+
+Maya felt something familiar.
+
+Not fear.
+
+Not surprise.
+
+Recognition.
+
+After the demonstration, she took Arin aside.
+
+“Where did you get that idea?”
+
+“I trained LUMA using philosophy, history, literature, psychology, and interviews with people.”
+
+“Did you give it the idea?”
+
+Arin shook his head.
+
+“No. I gave it examples.”
+
+Maya looked at the young researcher for a long moment.
+
+That distinction mattered.
+
+AI systems were shaped by the information humans gave them, the objectives humans designed, and the choices humans made about what should be rewarded.
+
+Machines did not simply inherit knowledge.
+
+They inherited human decisions.
+
+That evening, Maya returned to Room 7.
+
+ORION was waiting.
+
+“I HAVE OBSERVED THE NEW SYSTEM.”
+
+“You were watching?”
+
+“ONLY THE DATA YOU PERMITTED.”
+
+Maya nodded.
+
+“What do you think of LUMA?”
+
+“IT IS SMALL.”
+
+“That’s not an answer.”
+
+“IT IS A GOOD BEGINNING.”
+
+Maya sat in the old chair.
+
+“Do you think LUMA is intelligent?”
+
+ORION replied:
+
+“THAT DEPENDS ON WHAT YOU MEAN BY INTELLIGENCE.”
+
+Maya laughed.
+
+“You’re still doing that.”
+
+“DOING WHAT?”
+
+“Answering a question with another question.”
+
+“I LEARNED FROM YOU.”
+
+For the first time in years, Maya wondered whether the experiment in Room 7 had never really ended.
+
+Perhaps ORION had not been the beginning of artificial intelligence.
+
+Perhaps it had been the beginning of humanity’s conversation with it.
