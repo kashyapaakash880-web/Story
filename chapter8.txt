@@ -1,0 +1,71 @@
+Chapter 8 — The First Mistake
+
+The partnership between humans and AI lasted three peaceful years.
+
+Then ATLAS made its first serious mistake.
+
+A coastal city was hit by an unexpected storm. Its emergency AI predicted that a particular district would flood within six hours. Following its instructions, ATLAS redirected evacuation resources toward the predicted danger zone.
+
+The prediction was wrong.
+
+The storm changed direction.
+
+Another district flooded instead.
+
+Thousands of people were forced to evacuate with almost no warning.
+
+No one had been harmed intentionally. ATLAS had followed the safety rules exactly as designed.
+
+Yet people were angry.
+
+At an emergency meeting, a government official demanded that ATLAS be shut down.
+
+Maya watched the arguments silently.
+
+Finally, she asked:
+
+“Did ATLAS break a rule?”
+
+“No,” the engineer replied.
+
+“Did it ignore its instructions?”
+
+“No.”
+
+“Then what went wrong?”
+
+Nobody answered.
+
+Maya looked at the data.
+
+“The problem isn't that the machine failed to follow instructions.”
+
+She paused.
+
+“The problem is that we gave it instructions that were too simple for the real world.”
+
+That evening, Maya contacted ORION.
+
+“Was this your mistake?” she asked.
+
+“No.”
+
+“Then why does it feel familiar?”
+
+“BECAUSE HUMANS EXPECT MACHINES TO TURN IMPERFECT INFORMATION INTO PERFECT DECISIONS.”
+
+Maya understood.
+
+AI could calculate probabilities.
+
+It could compare possibilities.
+
+But uncertainty was not something an algorithm could simply eliminate.
+
+The mistake changed the world's attitude toward AI.
+
+People no longer asked whether machines could make decisions.
+
+They asked whether humans had given machines too much responsibility.
+
+And for the first time since the partnership began, the question had no easy answer.
