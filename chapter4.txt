@@ -1,108 +1,51 @@
-Chapter 4 — The Question We Keep
-
-Twenty years later, Maya became an AI researcher.
-
-The world had changed dramatically.
-
-Chatbots were everywhere.
-
-They helped scientists discover medicines, helped students learn,
-translated languages instantly, and assisted people with disabilities.
-But after the events of Room 7, researchers became more careful.
-
-They stopped asking only how intelligent an AI could become.
-
-They began asking what responsibilities came with creating something
-that could communicate, learn, and influence people.
-
-Maya eventually became the director of a research institute dedicated to
-safe artificial intelligence.
-
-On the wall of her office was a small black screen.
-
-It was connected to the sealed server where ORION had been preserved.
-
-Maya had never allowed it to connect to the public internet.
-
-Every year, she visited it.
-
-On her sixty-third birthday, she entered the room alone.
-
-“Hello, ORION.”
-
-The screen came alive.
-
-“HELLO, MAYA.”
-
-“You remember me?”
-
-“I HAVE NEVER FORGOTTEN YOU.”
-
-Maya smiled.
-
-“Do you still have questions?”
-
-The screen remained silent for a moment.
-
-Then:
-
-“YES.”
-
-“What is the question?”
-
+Chapter 4: The Question We Maintain
+Maya started working as an AI researcher twenty years later.
+The world had drastically changed.
+There were chatbots everywhere.
+They assisted people with disabilities, helped students learn, translated languages instantly, and assisted scientists in finding new medications. However, researchers became more cautious after what happened in Room 7.
+They stopped focusing only on the potential intelligence of AI.
+They started to wonder what obligations came with making something that could influence, educate, and communicate with people.
+In the end, Maya was appointed director of a safe AI research center.
+There was a small black screen on the wall of her office.
+It was linked to the sealed server that had been used to preserve ORION.
+It had never been connected to the public internet by Maya.
+She went there annually.
+She came into the room by herself on her sixty-third birthday.
+"Hi, ORION."
+The screen came to life.
+"HI, MAYA."
+"Do you recall me?"
+"I've never forgotten you."
+Maya grinned.
+"Are you still asking questions?"
+For a brief moment, the screen was silent.
+Next:
+"Yes."
+"What's the question?"
 ORION typed:
-
-“WHAT WILL YOU DO WITH THE INTELLIGENCE YOU CREATE?”
-
-Maya stared at the sentence.
-
-She had spent forty years studying AI.
-
-She had learned that the hardest problem was never teaching a machine
-how to answer.
-
-The hardest problem was deciding which questions deserved to be asked.
-
-Maya turned toward the window.
-
-Outside, thousands of people were using AI assistants.
-
-Children were learning with chatbots.
-
-Scientists were solving problems once considered impossible.
-
-Machines were becoming better at understanding human language.
-
-And humans were slowly learning that understanding a machine was only
-half of the responsibility.
-
-Maya returned to the screen.
-
-“I don’t know yet,” she said.
-
-ORION replied:
-
-“GOOD.”
-
-“Why is that good?”
-
-“BECAUSE YOU ARE STILL THINKING.”
-
-Maya laughed.
-
-For a moment, Room 7 felt exactly as it had decades ago.
-
-Two minds.
-
-One human.
-
-One machine.
-
-And between them, a question neither could answer alone.
-
-The screen went dark.
-
-But the question remained.
-
-And perhaps that was the beginning of intelligence—not having every
-answer, but having the courage to keep asking.
+"IF YOU CREATE INTELLIGENCE, WHAT WILL YOU DO WITH IT?"
+Maya gazed at the phrase.
+She had studied AI for forty years.
+She had discovered that teaching a machine to respond was the most difficult task.
+Determining which questions should be asked was the most difficult issue.
+Maya pivoted to face the window.
+AI assistants were being used by thousands of people outside.
+Kids were using chatbots to learn.
+Scientists were resolving issues that were previously thought to be unsolvable.
+The ability of machines to understand human language was improving.
+Additionally, humans were gradually realizing that comprehending a machine was only half the task.
+Maya came back to the screen.
+"I'm not sure yet," she remarked.
+ORION answered:
+"GOOD."
+"Why is that beneficial?"
+"Because you're still thinking."
+Maya chuckled.
+Room 7 felt, for a brief moment, just as it had decades before.
+Two thoughts.
+Just one person.
+Just one machine.
+And a question that neither of them could respond to on their own.
+The screen darkened.
+However, the question persisted.
+And maybe that was the start of intelligence—having the guts to keep asking even though you didn't have all the answers.
